@@ -6,3 +6,5 @@ Simple React/Redux weather app pulling data from OpenWeatherMap and Google Maps 
     > cd ReactReduxWeather
     > npm install
     > npm start
+
+Add a few US city names and get current weather data.
